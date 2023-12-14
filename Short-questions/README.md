@@ -1,8 +1,6 @@
 # INTERVIEW PREPARATION QUESTIONS
 
----
-
-## <details><summary> useEffect </summary>
+ <details><summary><h2> useEffect </h2></summary>
 
 ## Syntax
 
@@ -31,7 +29,7 @@ useEffect(()=>{},[])
 
 ---
 
-## <details><summary> Closure </summary>
+<details><summary><h2> Closure </h2></summary>
 
 ## Syntax
 
