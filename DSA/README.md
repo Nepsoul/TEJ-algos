@@ -37,6 +37,17 @@ Each problem will go in its own directory containing the following:
   - commit, and push
 - You can refer to the solution in the JavaScript solution file, where available, but only look after you have struggled to come up with the solution. make sure you understand the solution, otherwise ask!
 
+## Schedule of algos - 2023 (NEW)
+
+- November 23: Array
+- November 27: Linked-list
+- November 30: Tree (depth first search)
+- December 1: Tree (breadth first search)
+- December 4: Sorting and searching
+- December 5: Recursion
+- December 7: Merge-sort
+- December 8: Stack-queue
+
 ## Schedule of algos - 2022 (OLD)
 
 - November 7: Anagram (_easy_)
